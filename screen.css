@@ -2,3 +2,8 @@
 a.active {
     font-weight: bold;
 }
+
+img{
+    width: 600px;
+    height: 450px;
+}
