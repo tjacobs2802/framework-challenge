@@ -3,7 +3,7 @@ a.active {
     font-weight: bold;
 }
 
-img{
-    width: 600px;
-    height: 450px;
-}
+.card {
+    max-width: 300px;
+    max-height: 300px;
+  }
