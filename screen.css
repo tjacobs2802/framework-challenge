@@ -2,8 +2,3 @@
 a.active {
     font-weight: bold;
 }
-
-.card {
-    max-width: 300px;
-    max-height: 300px;
-  }
